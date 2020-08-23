@@ -1,6 +1,9 @@
 # Smart-Face-Lock-System
 Building a high accuracy face recognition model
 
+Check out the below article for the complete understanding of the procedure and code:
+https://towardsdatascience.com/smart-face-lock-system-6c5a77aa5d30
+
 Collect_Images.py consists of the complete code to collect the faces of an individual owner. 
 
 Resize.py is the code to resize all our collected images.
